@@ -1,0 +1,35 @@
+_repo: The-Village-Sunday-SchoolWith-brief-sketches-of-three-of-its-scholars_11966
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Symons, John C. (John Christian)
+    birthdate: 1820
+    deathdate: 1894
+    gutenberg_agent_id: '4152'
+    url: http://www.gutenberg.org/2009/agents/4152
+  editor:
+    agent_name: Kidder, Daniel P. (Daniel Parish)
+    aliases:
+    - Kidder, Daniel Parish
+    - Kidder, D. P. (Daniel Parish)
+    birthdate: 1815
+    deathdate: 1891
+    gutenberg_agent_id: '36319'
+    url: http://www.gutenberg.org/2009/agents/36319
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday schools'
+- !lcc 'BV'
+- GITenberg
+title: 'The Village Sunday School
+
+  With brief sketches of three of its scholars'
+url: http://www.gutenberg.org/ebooks/11966
