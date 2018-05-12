@@ -1,5 +1,8 @@
 _repo: The-Village-Sunday-SchoolWith-brief-sketches-of-three-of-its-scholars_11966
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Symons, John C. (John Christian)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '36319'
     url: http://www.gutenberg.org/2009/agents/36319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11966#The-Village-Sunday-SchoolWith-brief-sketches-of-three-of-its-scholars
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
